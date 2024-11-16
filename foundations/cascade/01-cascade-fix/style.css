@@ -8,16 +8,17 @@ body {
   font-weight: 800;
 }
 
-.small-para {
+.para.small-para {
   font-size: 14px;
-  font-weight: 800;
+  font-weight: 1000;
 }
 
 .para {
   font-size: 22px;
+  font-weight: 1000;
 }
 
-.confirm {
+.confirm.button{
   background: green;
   color: white;
   font-weight: bold;
@@ -29,9 +30,9 @@ body {
   font-size: 20px;
 }
 
-.child {
+.child.text{
   color: rgb(0, 0, 0);
-  font-weight: 800;
+  font-weight: 1000;
   font-size: 14px;
 }
 
