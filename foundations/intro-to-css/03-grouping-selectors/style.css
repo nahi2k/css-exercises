@@ -1,0 +1,13 @@
+.but1{
+    background-color: rgba(37, 205, 228, 0.842);
+    color: white;
+}
+
+.but2{
+    background-color: rgb(255, 51, 0);
+}
+
+.but1 .bu2{
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif, 'Times New Roman', Times, serif, sans-serif;
+}
